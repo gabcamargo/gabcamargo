@@ -1,6 +1,6 @@
 ### Olá, eu sou o Gabriel!👋
 
-- 💻 Trablho como Analista de Desenvolvimento de Sistemas Jr
+- 💻 Trabalho como Analista de Desenvolvimento de Sistemas Jr
 - 📖 Sou estudante de Ciência da Computação
 - 🌱 Futuro Dev Full-Stack
 
